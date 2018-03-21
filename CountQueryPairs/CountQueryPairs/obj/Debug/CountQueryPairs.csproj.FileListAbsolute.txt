@@ -1,0 +1,6 @@
+c:\users\lifhuan\source\repos\TopKQueryPairs\TopKQueryPairs\bin\Debug\TopKQueryPairs.exe.config
+c:\users\lifhuan\source\repos\TopKQueryPairs\TopKQueryPairs\bin\Debug\TopKQueryPairs.exe
+c:\users\lifhuan\source\repos\TopKQueryPairs\TopKQueryPairs\bin\Debug\TopKQueryPairs.pdb
+c:\users\lifhuan\source\repos\TopKQueryPairs\TopKQueryPairs\obj\Debug\CountQueryPairs.csproj.CoreCompileInputs.cache
+c:\users\lifhuan\source\repos\TopKQueryPairs\TopKQueryPairs\obj\Debug\TopKQueryPairs.exe
+c:\users\lifhuan\source\repos\TopKQueryPairs\TopKQueryPairs\obj\Debug\TopKQueryPairs.pdb
